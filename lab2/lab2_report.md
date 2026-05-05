@@ -4,7 +4,7 @@ Course: Cloud platforms as the basis of technology entrepreneurship\
 Year: 2025/2026\
 Group: U4125\
 Author: Ermanov Alexey Sergeevich\
-Lab: Lab1\
+Lab: Lab2\
 Date of create: 05.05.2026\
 Date of finished: 
 # Лабораторная работа №2
